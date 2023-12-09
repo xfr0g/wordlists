@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=![depositphotos_93333932-stock-illustration-silhouettes-of-three-anonymous](https://github.com/semiiixyz/wordlists/assets/125569648/66a651ba-3ea1-4642-8a72-45e72806f89d)>
+  <img src="![depositphotos_93333932-stock-illustration-silhouettes-of-three-anonymous](https://github.com/semiiixyz/wordlists/assets/125569648/66a651ba-3ea1-4642-8a72-45e72806f89d)">
 </div>
   
 # Common Passwords: Risks and Dangers
